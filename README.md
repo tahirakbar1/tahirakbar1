@@ -6,10 +6,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/its_Tahirr?style=social)](https://twitter.com/Its_Tahirr)
 [![GitHub followers](https://img.shields.io/github/followers/tahirakbar1?style=social)](https://github.com/tahirakbar1)
 
-I'm currently a Software Engineer at Oop Technologies. Here's a peek at my professional life timeline!
+I'm a Software Engineer. Here's a peek at my professional life timeline!
 
-- Software Engineer at [@ooptechnologies](https://www.ooptechnologies.com/)
-- MERN Stack at [@ooptechnologies](https://www.ooptechnologies.com/)
+- Software Engineer 
+- MERN Stack Dev
 
 
 [<br><p align='left'> <img src="https://img.shields.io/badge/website-tahirakbar1.github.io-black?style=for-the-badge&logo=appveyor"/>][1]
