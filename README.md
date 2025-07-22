@@ -1,44 +1,54 @@
-<h1>Hi There! I'm Tahir! <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="40" height="35"></h1>
+# Tahir Akbar – Software Engineer & MERN Stack Specialist
 
-<img align='right' src="/picture.jpg" width="400">
+---
 
-![](https://komarev.com/ghpvc/?username=tahirakbar1&style=flat-square)
-[![Twitter Follow](https://img.shields.io/twitter/follow/its_Tahirr?style=social)](https://twitter.com/Its_Tahirr)
-[![GitHub followers](https://img.shields.io/github/followers/tahirakbar1?style=social)](https://github.com/tahirakbar1)
+## About Me
 
-I'm a Software Engineer. Here's a peek at my professional life timeline!
+I am a results-driven Software Engineer with extensive experience in building scalable web and mobile applications. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and have a proven track record of delivering high-quality solutions for clients ranging from startups to established enterprises.
 
-- Software Engineer 
-- MERN Stack Dev
+If you are looking for a reliable developer to bring your ideas to life, optimize your existing systems, or lead your next project, I am ready to help.
 
+---
 
-[<br><p align='left'> <img src="https://img.shields.io/badge/website-tahirakbar1.github.io-black?style=for-the-badge&logo=appveyor"/>][1]
+## What I Offer
 
-[<img src="https://img.shields.io/badge/email-tahirakbar333@gmail.com-red?style=for-the-badge&logo=google"/>][2]
+- **Full-Stack Web Development** (MERN, PHP/Laravel)
+- **Custom API & Backend Solutions**
+- **Frontend Engineering** (React, Redux, TypeScript, Material-UI, Bootstrap)
+- **Mobile App Development** (React Native)
+- **Database Design & Optimization** (MongoDB)
+- **Cloud Deployment & DevOps** (AWS, Netlify, Heroku, Ubuntu)
+- **UI/UX Implementation**
+- **Technical Consulting & Project Leadership**
 
-[<img src="https://img.shields.io/badge/linkedin-tahirakbar4-blue?style=for-the-badge&logo=linkedin"/>][3]
+---
 
-[<img src="https://img.shields.io/badge/twitter-its_Tahirr-lightblue?style=for-the-badge&logo=twitter"/>][4]
+## Why Work With Me?
 
-[<img src="https://img.shields.io/badge/stackoverflow-Tahir-blue?style=for-the-badge&logo=stackoverflow"/></p>][5]
+- Proven experience with modern web and mobile technologies
+- Strong communication and project management skills
+- Commitment to quality, deadlines, and client satisfaction
+- Collaborative approach: I love contributing and working with teams
 
-[<img src="https://img.shields.io/badge/gitlab-Tahirakbar-blue?style=for-the-badge&logo=gitlab"/></p>][6]
+---
 
- [1]: https://tahirakbar1.github.io/
- [2]: mailto:tahirakbar333@gmail.com
- [3]: https://www.linkedin.com/in/tahirakbar4/
- [4]: https://twitter.com/its_Tahirr
- [5]: https://stackoverflow.com/users/9527069/tahir
- [6]: https://gitlab.com/tahirakbar
+## Contact Me
 
-💻 : Tech Stack: 
+**Let’s discuss how I can help your business grow.**
 
- - Ask me anything I would like to help you.. 💬
- - I love contributing and collaborating.. ❤️
+- **Email:** [tahirakbar333@gmail.com](mailto:tahirakbar333@gmail.com)
+- **LinkedIn:** [linkedin.com/in/tahirakbar4](https://www.linkedin.com/in/tahirakbar4/)
+- **Website:** [tahirakbar1.github.io](https://tahirakbar1.github.io/)
+- **Twitter:** [@its_Tahirr](https://twitter.com/its_Tahirr)
+- **GitHub:** [github.com/tahirakbar1](https://github.com/tahirakbar1)
+- **Stack Overflow:** [Tahir](https://stackoverflow.com/users/9527069/tahir)
+- **GitLab:** [Tahirakbar](https://gitlab.com/tahirakbar)
 
-<br/>
+---
 
-Web:
+## Tech Stack
+
+**Web:**
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -48,28 +58,31 @@ Web:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![ReactRouter](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MaterialUi](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-
-Mobile 
+**Mobile:**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Servers
+**Servers & Cloud:**
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
+
+<!-- Optional: Add a portfolio/projects section or testimonials here for even more impact -->
+
  
+
 <br/>
 
 
